@@ -1,5 +1,4 @@
 # Prisma Migrate lockfile v1
 
-20201117070536-graphql-start
-20201117085308
-20201117085631-add-user-model
+20201130080122
+20201202010557-add-vote-model
